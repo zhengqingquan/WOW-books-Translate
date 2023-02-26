@@ -1,3 +1,7 @@
+https://github.com/Gethe/wow-ui-source/tree/beta/Interface/AddOns/Blizzard_APIDocumentationGenerated
+
+https://github.com/tomrus88/BlizzardInterfaceCode
+
 https://wowpedia.fandom.com/wiki/World_of_Warcraft_API
 
 https://develop.battle.net/documentation/world-of-warcraft
@@ -8,6 +12,7 @@ https://wowwiki.fandom.com/wiki/Portal:Interface_customization
 
 https://wowwiki.fandom.com/wiki/World_of_Warcraft_API
 
+现在魔兽分为三个版本，live版，ptr版、beta版，class版
 
 北美官网推荐教程：《宏命令完全指南》 
 这是从WOWWiki翻译下来的一篇文章，WOW美服官方推荐的宏教程。
